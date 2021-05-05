@@ -21,6 +21,10 @@
     "convert",
     "utilities"
   ],
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/daverik/hextorgb.git"
+  },
 	"activationEvents": [
         "onCommand:hextorgb.hexToRGB"
 	],
